@@ -7,3 +7,6 @@
 - 💬 Ask me about anything
 <!-- - 📫 How to reach me:[LinkedIn](url)
 - ⚡ Fun fact:  -->
+
+![github]
+(https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHublogoColor=white)])
