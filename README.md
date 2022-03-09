@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate on Cool Projects
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about anything
-- 📫 How to reach me:
-                      Portfolio https://alenscaria.github.io/personal-website/
+- 📫 How to reach me: 
                       LinkedIn https://www.linkedin.com/in/alen-scaria-a-373559164/
 
 
