@@ -8,9 +8,7 @@
 <!-- - 📫 How to reach me:[LinkedIn](url)
 - ⚡ Fun fact:  -->
 
-<img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />
-
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+<img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" /> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
@@ -50,16 +48,16 @@
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username={alenantony05@gmail.com}&theme=minimal" />
+<img src="https://activity-graph.herokuapp.com/graph?username=alenscaria&theme=minimal" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={alenantony05@gmail.com}&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alenscaria&theme=vue" />
 
-<img src="https://github-readme-stats.vercel.app/api?username={alenantony05@gmail.com}" />
+<img src="https://github-readme-stats.vercel.app/api?username=alenscaria" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={alenantony05@gmail.com}" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenscaria" />
 
-<img src="https://github-profile-trophy.vercel.app/?username={alenantony05@gmail.com}" />
+<img src="https://github-profile-trophy.vercel.app/?username=alenscaria" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user={alenantony05@gmail.com}" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alenscaria" />
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{alenantony05@gmail.com}1212%2Fhit-counter" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falenscaria1212%2Fhit-counter" />
