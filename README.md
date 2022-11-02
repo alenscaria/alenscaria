@@ -18,10 +18,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=alenscaria" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenscaria" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenscaria" /> -->
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=alenscaria" /> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alenscaria" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=alenscaria" /> -->
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falenscaria1212%2Fhit-counter" />
+<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falenscaria1212%2Fhit-counter" /> -->
