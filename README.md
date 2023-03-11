@@ -7,9 +7,8 @@
 - 🌱 I’m currently mastering Full Stack Development
 - 👯 I’m looking to collaborate on Cool Projects
 - 🤔 I’m looking for help with Backend Development
-- 📫 How to reach me: 
-                      LinkedIn https://www.linkedin.com/in/alenscaria/
-- 📝 DEV.TO : https://dev.to/alenscaria
+- 📫 LinkedIn  : https://www.linkedin.com/in/alenscaria/
+- 📝 DEV.TO    : https://dev.to/alenscaria
 - 💼 Portfolio : https://alenscaria.github.io/
 <!-- - 💬 Ask me about anything -->
 
