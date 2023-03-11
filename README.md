@@ -6,6 +6,8 @@
 - 🤔 I’m looking for help with Backend Development
 - 📫 How to reach me: 
                       LinkedIn https://www.linkedin.com/in/alenscaria/
+- 📝 DEV.TO : https://dev.to/alenscaria
+- 💼 Portfolio : https://alenscaria.github.io/
 <!-- - 💬 Ask me about anything -->
 
 
