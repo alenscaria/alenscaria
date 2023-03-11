@@ -1,3 +1,6 @@
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/63664995/224469636-3a41907a-b07f-488a-9d42-b773f79f71fe.png)
+
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!-- - 🔭 I’m currently working on ... -->
