@@ -4,7 +4,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently mastering Python - Flask
+- 🌱 I’m currently mastering .NET 
 - 👯 I’m looking to collaborate on Cool Projects
 - 🤔 I’m looking for help with Backend Development
 - 📫 LinkedIn  : https://www.linkedin.com/in/alenscaria/
