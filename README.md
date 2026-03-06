@@ -4,7 +4,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently mastering .NET Core & Blazor 
+- 🌱 I’m currently mastering .NET Core & Angular 
 - 👯 I’m looking to collaborate on Cool Projects
 - 📫 LinkedIn  : https://www.linkedin.com/in/alenscaria/
 - 📝 Blog      : https://dev.to/alenscaria
